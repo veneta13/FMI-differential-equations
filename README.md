@@ -6,5 +6,6 @@ Solve the Cauchy problem, using step sizes of 0.1, 0.02 and 0.002, in the interv
 
 <b>
 <center>y' =  sin(x<sup>2</sup> + y)</center>
+<br>
 <center> y(0) = π / 2 </center>
 </b>
