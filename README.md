@@ -33,7 +33,7 @@ Its solution is:
 
 Find the partial sum of the first 42 members of the series. Animate the functions' graphs for for time in [0,4], changing with step 0.08.
 
-### Problem 1
+### Problem 2
 
 Given the following heat equation problem:
 
