@@ -31,7 +31,7 @@ Its solution is:
 
 <img src="./problems/problem3_2.PNG" alt="Problem3" width="450" />
 
-Find the partial sum of the first 42 members of the series. Animate the functions' graphs for for time in [0,4], changing with step 0.08.
+Find the partial sum of the first 42 members of the series. Animate the functions' graphs for time in [0,4], changing with step 0.08.
 
 ### Problem 2
 
